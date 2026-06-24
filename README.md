@@ -1,5 +1,6 @@
 # 헤드셋 / 스피커 PC방 설정법
-soundvolumeview-x64 깔고 오시길
+
+## ★★★ 중요 soundvolumeview-x64 다운로드 하고 오세요
 
 # 설정법 
 
