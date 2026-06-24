@@ -4,6 +4,8 @@
 
 링크: https://www.nirsoft.net/utils/sound_volume_view.html
 
+헤드셋 이랑 스피커 파일 다운로드 하고 경로만 잘 설정해서 쓰면됨 (+ 디스코드도 호환가능하게 만듬)
+
 # 설정법 
 
 @echo off
