@@ -22,3 +22,7 @@ echo [성공] 8번 헤드셋 장치로 일괄 전환 완료!
 echo 디코 설정창을 껐다 켜거나 Ctrl+R을 눌러보세요.
 echo ==========================================
 timeout /t 2 >nul
+
+<img width="209" height="135" alt="image" src="https://github.com/user-attachments/assets/d214b05a-335d-41f8-906e-16a58ab45645" />
+
+이렇게 만들어주면 끝!
